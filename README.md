@@ -16,11 +16,13 @@
 <a href="https://www.linkedin.com/in/sourav-naskar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sourav-naskar" height="30" width="40" /></a>
 <a href="https://www.instagram.com/nash_1o7/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sourav.naskar" height="30" width="40" /></a>
 <a href="https://fb.com/nash1o7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sourav.naskar" height="30" width="40" /></a>
-<a href="https://kaggle.com/nash1o7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="sourav.naskar" height="30" width="40" /></a>
+</p>
+<h3 align="left">Coding Handles:</h3>
+<p align="left">
 <a href="https://www.codechef.com/users/nash_1o7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nash_1o7" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/nash_1o7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="nash_1o7" height="30" width="40" /></a>
 <a href="https://leetcode.com/nash_1o7/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="sourav.naskar" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sourav_naskar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="sourav.naskar" height="30" width="40" /></a>
+<a href="https://kaggle.com/nash1o7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="sourav.naskar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
