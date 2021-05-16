@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sourav Naskar</h1>
-<h3 align="center">A Machine Learning & Competitive Programming Enthusiast from India</h3>
+<h3 align="center">A Machine Learning & Competitive Programming Enthusiast </h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nash1o7&label=Profile%20views&color=129e00&style=plastic" alt="nash1o7" /> </p>
+
 
 - 🌱 I’m currently learning **Machine Learning ,Deep Learning, Natural Language processing Techniques, Data Structure & Algorithms**
 
@@ -25,8 +28,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nash1o7&show_icons=true&locale=en&layout=compact" alt="nash1o7" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nash1o7&show_icons=true&locale=en" alt="nash1o7" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nash1o7&show_icons=true&locale=en" alt="nash1o7" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nash1o7&" alt="nash1o7" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nash1o7&" alt="nash1o7" /></p>
 
 
