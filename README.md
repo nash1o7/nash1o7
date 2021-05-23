@@ -14,7 +14,7 @@
   <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/sourav-naskar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sourav-naskar" height="30" width="40" /></a>
-<a href="https://www.instagram.com/nash_1o7/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sourav.naskar" height="30" width="40" /></a>
+<a href="https://www.instagram.com/__sourav_naskar__/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sourav.naskar" height="30" width="40" /></a>
 <a href="https://fb.com/nash1o7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sourav.naskar" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
