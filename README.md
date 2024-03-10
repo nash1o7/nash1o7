@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sourav Naskar</h1>
-<h3 align="center">A Machine Learning Enthusiast </h3>
+<h3 align="center">Java Full Stack Developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourav-naskar&label=Profile%20views&color=129e00&style=plastic" alt="sourav-naskar" /> </p>
 
